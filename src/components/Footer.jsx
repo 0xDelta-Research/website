@@ -23,7 +23,7 @@ const Footer = () => {
             <div className="flex items-center gap-4">
                 {/* GitHub */}
                 <a 
-                  href="https://github.com/SEU_GITHUB_AQUI" 
+                  href="https://github.com/0xDelta-Research" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-3 border border-neutral-800 bg-neutral-900 text-neutral-500 hover:text-black hover:bg-white hover:border-white transition-all duration-200"
@@ -34,7 +34,7 @@ const Footer = () => {
 
                 {/* LinkedIn */}
                 <a 
-                  href="https://linkedin.com/company/SEU_LINKEDIN_AQUI" 
+                  href="https://www.linkedin.com/company/0xdeltaresearch/" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-3 border border-neutral-800 bg-neutral-900 text-neutral-500 hover:text-black hover:bg-white hover:border-white transition-all duration-200"
