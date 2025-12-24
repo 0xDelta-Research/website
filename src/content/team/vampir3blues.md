@@ -8,6 +8,6 @@ status: "ONLINE"
 skills: ["Digital Forensics", "Incident Response", "Memory Analysis"]
 social:
   linkedin: "https://www.linkedin.com/in/vampir3blues/"
-  github: "https://github.com/andrefliper"
+  github: "https://github.com/vampir3blues"
   website: " https://vampir3blu.es/"
 ---
